@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /melilla/decathlon/
-shop: Sport
+shop: deportes
 ---

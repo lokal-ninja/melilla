@@ -1,5 +1,5 @@
 ---
 title: "Women'secret"
 url: /melilla/womensecret/
-shop: Kleidung
+shop: ropa
 ---
