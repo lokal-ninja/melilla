@@ -1,11 +1,11 @@
 id: 304957996
-type: way
+type: node
 latitude: 35.2856
 longitude: -2.94293
 postcode: "52006"
 city: Melilla
-street: "Calle General Polavieja"
-housenumber: 30
+street: Calle General Polavieja
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 09:00-22:00"
+opening_hours: Mo-Sa 09:00-22:00
 website: ""

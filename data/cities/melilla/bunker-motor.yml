@@ -4,8 +4,8 @@ latitude: 35.28356
 longitude: -2.9401
 postcode: "52006"
 city: Melilla
-street: "Carlos V"
-housenumber: 23
-phone: "+34 952695574"
-opening_hours: "Mo-Fr 10:00-13:30,17:00-21:00; Sa 10:00-13:00; Su,PH off"
-website: "https://www.bunkermotor.es/"
+street: Carlos V
+housenumber: "23"
+phone: +34 952695574
+opening_hours: Mo-Fr 10:00-13:30,17:00-21:00; Sa 10:00-13:00; Su,PH off
+website: https://www.bunkermotor.es/

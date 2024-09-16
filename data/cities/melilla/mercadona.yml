@@ -1,11 +1,11 @@
 id: 301752472
-type: way
+type: node
 latitude: 35.28238
 longitude: -2.94043
 postcode: "52006"
 city: Melilla
-street: "Carlos V"
-housenumber: 
+street: Carlos V
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

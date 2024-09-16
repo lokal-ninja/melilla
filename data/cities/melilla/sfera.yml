@@ -1,11 +1,11 @@
 id: 580195188
-type: way
+type: node
 latitude: 35.29351
 longitude: -2.94016
 postcode: "52001"
 city: Melilla
-street: "Avenida Juan Carlos I Rey"
-housenumber: 
+street: Avenida Juan Carlos I Rey
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""
