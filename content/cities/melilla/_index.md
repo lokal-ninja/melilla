@@ -1,6 +1,6 @@
 ---
 title: Melilla
 url: /melilla/
-latitude: 35.284
-longitude: -2.94
+latitude: 35.286
+longitude: -2.941
 ---
